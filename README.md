@@ -3,6 +3,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> “Be nice to nerds. You may end up working for them. We all could.”
+
+*Charles J. Sykes*
+
+-------
+
 > The intellectual property situation is bad and getting worse. To be a programmer, it requires that you understand as much law as you do technology.
 
 *Eric Allman*
